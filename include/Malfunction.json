@@ -1,0 +1,50 @@
+{
+	"type": "disambiguation",
+	"title": "Malfunction",
+	"displaytitle": "Malfunction",
+	"namespace": {
+		"id": 0,
+		"text": ""
+	},
+	"titles": {
+		"canonical": "Malfunction",
+		"normalized": "Malfunction",
+		"display": "Malfunction"
+	},
+	"pageid": 6969900,
+	"thumbnail": {
+		"source": "https://ktd4869.github.io/Tool/include/Vorticist.jpg",
+		"width": 240,
+		"height": 320
+	},
+	"lang": "en",
+	"dir": "ltr",
+	"revision": "872735706",
+	"tid": "b926afb0-0ddb-11e9-b5cb-966af3256ba7",
+	"timestamp": "2018-12-08T21:31:30Z",
+	"description": "Disambiguation page providing links to articles with similar titles",
+	"content_urls": {
+		"desktop": {
+			"page": "https://en.wikipedia.org/wiki/Malfunction",
+			"revisions": "https://en.wikipedia.org/wiki/Malfunction?action=history",
+			"edit": "https://en.wikipedia.org/wiki/Malfunction?action=edit",
+			"talk": "https://en.wikipedia.org/wiki/Talk:Malfunction"
+		},
+		"mobile": {
+			"page": "https://en.m.wikipedia.org/wiki/Malfunction",
+			"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Malfunction",
+			"edit": "https://en.m.wikipedia.org/wiki/Malfunction?action=edit",
+			"talk": "https://en.m.wikipedia.org/wiki/Talk:Malfunction"
+		}
+	},
+	"api_urls": {
+		"summary": "https://en.wikipedia.org/api/rest_v1/page/summary/Malfunction",
+		"metadata": "https://en.wikipedia.org/api/rest_v1/page/metadata/Malfunction",
+		"references": "https://en.wikipedia.org/api/rest_v1/page/references/Malfunction",
+		"media": "https://en.wikipedia.org/api/rest_v1/page/media/Malfunction",
+		"edit_html": "https://en.wikipedia.org/api/rest_v1/page/html/Malfunction",
+		"talk_page_html": "https://en.wikipedia.org/api/rest_v1/page/html/Talk:Malfunction"
+	},
+	"extract": "A malfunction is a state in which something functions incorrectly or is obstructed from functioning at all.",
+	"extract_html": "<p>A <b>malfunction</b> is a state in which something functions incorrectly or is obstructed from functioning at all.</p>"
+}
