@@ -1,11 +1,6 @@
 {
 	"title": "Malfunction",
 	"displaytitle": "Malfunction",
-	"titles": {
-		"canonical": "Malfunction",
-		"normalized": "Malfunction",
-		"display": "Malfunction"
-	},
 	"thumbnail": {
 		"source": "https://ktd4869.github.io/Tool/include/Vorticist.jpg",
 		"width": 240,
