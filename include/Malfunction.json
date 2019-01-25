@@ -10,5 +10,6 @@
 	"lang": "en",
 	"dir": "ltr",
 	
+	"extract": ".",
 	"extract_html": "<p>A <b>malfunction</b> is a state in which something functions incorrectly or is obstructed from functioning at all.</p>"
 }
