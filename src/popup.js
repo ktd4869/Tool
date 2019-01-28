@@ -2242,7 +2242,7 @@
 		}),
 		uu = eu("className"),
 		au = m(tu, h([uu("ContextCardLogo"), (Qt =
-			"https://en.m.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg", m(eu, "src", Wn(Qt)))]), d),
+			"https://ktd4869.github.io/Tool/figure/logo.png", m(eu, "src", Wn(Qt)))]), d),
 		iu = Sn("div"),
 		ou = Bn,
 		fu = e(function(n, r) {
