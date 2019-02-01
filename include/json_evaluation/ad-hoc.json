@@ -1,0 +1,13 @@
+{
+	"title": "ad-hoc",
+	"displaytitle": "ad-hoc",
+	"thumbnail": {
+		"source": "https://ktd4869.github.io/Tool/figure/default_s.png",
+		"width": 76,
+		"height": 240
+	},
+	"lang": "en",
+	"dir": "ltr",
+	"extract": "A wireless ad hoc network (WANET) or MANET (Mobile ad hoc network) is a decentralised type of wireless network. The network is ad hoc because it does not rely on a pre-existing infrastructure, such as routers in wired networks or access points in managed (infrastructure) wireless networks. Instead, each node participates in routing by forwarding data for other nodes, so the determination of which nodes forward data is made dynamically on the basis of network connectivity and the routing algorithm in use.",
+	"extract_html": "<p>A wireless ad hoc network (WANET) or MANET (Mobile ad hoc network) is a decentralised type of wireless network. The network is ad hoc because it does not rely on a pre-existing infrastructure, such as routers in wired networks or access points in managed (infrastructure) wireless networks. Instead, each node participates in routing by forwarding data for other nodes, so the determination of which nodes forward data is made dynamically on the basis of network connectivity and the routing algorithm in use.</p>"
+}
