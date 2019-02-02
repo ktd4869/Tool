@@ -1,1 +1,13 @@
-{"title": "Enigmail", "displaytitle": "Enigmail", "thumbnail": {"source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Thunderbird_and_Enigmail_%28screenshot%29.png", "width": 320, "height": 240}, "lang": "en", "dir": "ltr", "extract": "Enigmail is a data encryption and decryption extension for Mozilla Thunderbird and the SeaMonkey internet suite that provides OpenPGPpublic key e-mail encryption and signing. Enigmail works under Microsoft Windows, Unix-like, and Mac OS X operating systems. Enigmail can operate with other mail clients compatible with PGP/MIME and inline PGP such as: Microsoft Outlook with Gpg4win package installed, Gnome Evolution, KMail, Claws Mail, Gnus, Mutt. Its cryptographic functionality is handled by GNU Privacy Guard.", "extract_html": "<p>Enigmail is a data encryption and decryption extension for Mozilla Thunderbird and the SeaMonkey internet suite that provides OpenPGPpublic key e-mail encryption and signing. Enigmail works under Microsoft Windows, Unix-like, and Mac OS X operating systems. Enigmail can operate with other mail clients compatible with PGP/MIME and inline PGP such as: Microsoft Outlook with Gpg4win package installed, Gnome Evolution, KMail, Claws Mail, Gnus, Mutt. Its cryptographic functionality is handled by GNU Privacy Guard.</p>"}
+{
+	"title": "Enigmail",
+	"displaytitle": "Enigmail",
+	"thumbnail": {
+		"source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Thunderbird_and_Enigmail_%28screenshot%29.png",
+		"width": 320,
+		"height": 240
+	},
+	"lang": "en",
+	"dir": "ltr",
+	"extract": "Enigmail is a data encryption and decryption extension for Mozilla Thunderbird and the SeaMonkey internet suite that provides OpenPGP public key e-mail encryption and signing. Enigmail works under Microsoft Windows, Unix-like, and Mac OS X operating systems. Enigmail can operate with other mail clients compatible with PGP/MIME and inline PGP such as: Microsoft Outlook with Gpg4win package installed, Gnome Evolution, KMail, Claws Mail, Gnus, Mutt. Its cryptographic functionality is handled by GNU Privacy Guard.",
+	"extract_html": "<p>Enigmail is a data encryption and decryption extension for Mozilla Thunderbird and the SeaMonkey internet suite that provides OpenPGP public key e-mail encryption and signing. Enigmail works under Microsoft Windows, Unix-like, and Mac OS X operating systems. Enigmail can operate with other mail clients compatible with PGP/MIME and inline PGP such as: Microsoft Outlook with Gpg4win package installed, Gnome Evolution, KMail, Claws Mail, Gnus, Mutt. Its cryptographic functionality is handled by GNU Privacy Guard.</p>"
+}
