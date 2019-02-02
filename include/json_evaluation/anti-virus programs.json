@@ -1,1 +1,13 @@
-{"title": "anti-virus programs", "displaytitle": "anti-virus programs", "thumbnail": {"source": "https://www.google.com/imgres?imgurl=https://www.computerhope.com/jargon/a/antivirus.jpg&imgrefurl=https://www.computerhope.com/jargon/a/antiviru.htm&h=261&w=300&tbnid=caWwIwHwe8u6vM:&q=anti-virus+program+meaning&tbnh=160&tbnw=184&usg=AI4_-kSRsvnWNtbbhOeEk0DFNBxOVV68NQ&vet=1&docid=IxVx7843Ru_bIM&sa=X&ved=2ahUKEwinnOfq_JLgAhUbXn0KHd--CCAQ9QEwAHoECAAQBg", "width": 300.0, "height": 261.0}, "lang": "en", "dir": "ltr", "extract": "Antivirus software, or anti-virus software (abbreviated to AV software), also known as anti-malware, is acomputer program used to prevent, detect, and remove malware. Antivirus software was originally developed to detect and remove computer viruses, hence the name.", "extract_html": "<p>Antivirus software, or anti-virus software (abbreviated to AV software), also known as anti-malware, is acomputer program used to prevent, detect, and remove malware. Antivirus software was originally developed to detect and remove computer viruses, hence the name.</p>"}
+{
+	"title": "anti-virus programs",
+	"displaytitle": "anti-virus programs",
+	"thumbnail": {
+		"source": "https://www.computerhope.com/jargon/a/antivirus.jpg",
+		"width": 300,
+		"height": 261
+	},
+	"lang": "en",
+	"dir": "ltr",
+	"extract": "Antivirus software, or anti-virus software (abbreviated to AV software), also known as anti-malware, is acomputer program used to prevent, detect, and remove malware. Antivirus software was originally developed to detect and remove computer viruses, hence the name.",
+	"extract_html": "<p>Antivirus software, or anti-virus software (abbreviated to AV software), also known as anti-malware, is acomputer program used to prevent, detect, and remove malware. Antivirus software was originally developed to detect and remove computer viruses, hence the name.</p>"
+}
