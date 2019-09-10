@@ -1,0 +1,4 @@
+{"title": "DDoS", 
+	"displaytitle": "DDoS", 
+	"thumbnail": {"source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Stachledraht_DDos_Attack.svg", "width": 170.0, "height": 240.0}, "lang": "en", "dir": "ltr", 
+"extract": "<p>DDoS is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack. Victims of a DDoS attack consist of both the end targeted system and all systems maliciously used and controlled by the hacker in the distributed attack.</p>"}
